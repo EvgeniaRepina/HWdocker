@@ -12,7 +12,8 @@ build/
 .settings
 .springBeans
 .sts4-cache
-
+data
+node
 ### IntelliJ IDEA ###
 .idea
 *.iws
